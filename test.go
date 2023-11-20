@@ -3,9 +3,8 @@ package main
 import "fmt"
 
 func main() {
-
-	//strings
-
 	testOne := "test"
 	fmt.Println(testOne)
+	testTwo := 34
+	fmt.Println(testTwo)
 }
